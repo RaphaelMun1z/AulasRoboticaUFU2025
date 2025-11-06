@@ -9,3 +9,6 @@ https://www.tinkercad.com/things/4k6G6sMyoQ4-aula-03-robotica?sharecode=TaS0ehjp
 
 ## Aula 04
 https://www.tinkercad.com/things/6bhUOsNcx8n-aula-04-robotica?sharecode=cdluYJ2QcgfeqMOZoTkAIfQClbwNjvdMB1C_3ZaUHH0
+
+## Aula 05
+https://www.tinkercad.com/things/13TPMw4iFSE-aula-05-robotica?sharecode=fd60AA_d8JADG8m0VNuiSPp0Gwq1OJ_wepDFFMCPQws
